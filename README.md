@@ -13,10 +13,10 @@
 
 ## 🎯 Areas of Expertise
 
-- **Machine learning:** (both classical: data preprocessing, feature selection, classification, regression, clustering, association rule mining; and deep learning (DL) approaches)
-- **Deep learning:** (MLP, uni/bidirectional RNN/LSTM/GRU or their hybrid versions with convolution in the form of regular/encoder/decoder networks, GANs, semi-supervised learning, transfer learning)
-- **Computer vision:** (both classical and DL, data augmentation, CNN/ViT-based networks, detection, segmentation, pose estimation, depth estimation, optical flow, tracking)
-- **NLP:** (classical NLP, embeddings, RNN, Transformers, word/text classification, dimensionality reduction, summarization, topic modeling, LDA, translation, generative models)
+- **Machine learning:** both classical: data preprocessing, feature selection, classification, regression, clustering, association rule mining; and deep learning (DL) approaches
+- **Deep learning:** MLP, uni/bidirectional RNN/LSTM/GRU or their hybrid versions with convolution in the form of regular/encoder/decoder networks, GANs, semi-supervised learning, transfer learning
+- **Computer vision:** both classical and DL, data augmentation, CNN/ViT-based networks, detection, segmentation, pose estimation, depth estimation, optical flow, tracking
+- **NLP:** classical NLP, embeddings, RNN, Transformers, word/text classification, dimensionality reduction, summarization, topic modeling, LDA, translation, generative models
 
 ## 📚 Research
 
